@@ -23,7 +23,7 @@ En esta práctica se trabaja con un repositorio Git local y remoto para aprender
    </body>
    </html>
    ```
-![Imagen 1](images/img1.png)
+   ![Imagen 1](images/img1.png)
 
 2. Añadí y confirmé los cambios:
 
@@ -32,7 +32,7 @@ En esta práctica se trabaja con un repositorio Git local y remoto para aprender
    git commit -m "Añadido index.html"
    ```
 
-![Imagen 2](images/img2.png)
+   ![Imagen 2](images/img2.png)
 
 ---
 
@@ -52,7 +52,7 @@ En esta práctica se trabaja con un repositorio Git local y remoto para aprender
    </body>
    ```
 
-![Imagen 3](images/img3.png)
+   ![Imagen 3](images/img3.png)
 
 3. Confirmé los cambios:
 
@@ -61,7 +61,7 @@ En esta práctica se trabaja con un repositorio Git local y remoto para aprender
    git commit -m "Añadido nombre al body"
    ```
 
-![Imagen 4](images/img4.png)
+   ![Imagen 4](images/img4.png)
 
 ---
 
@@ -87,7 +87,7 @@ En esta práctica se trabaja con un repositorio Git local y remoto para aprender
    </body>
    ```
 
-![Imagen 5](images/img5.png)
+   ![Imagen 5](images/img5.png)
 
 4. Confirmé los cambios:
 
@@ -96,7 +96,7 @@ En esta práctica se trabaja con un repositorio Git local y remoto para aprender
    git commit -m "Añadido el apellido al body"
    ```
 
-![Imagen 6](images/img6.png)
+   ![Imagen 6](images/img6.png)
 
 ---
 
